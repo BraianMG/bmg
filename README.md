@@ -6,13 +6,16 @@ Version for release > master
 
 Development version > dev
 
+
 Any functionality implementation that needs to be developed is done separately in a branch.
+
 
 Differentiation of importance of branches:
 
 Important branch > [UPPER CASE]
 
 Secondary branch > [lower case]
+
 
 For example:
 
