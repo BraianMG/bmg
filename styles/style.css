@@ -27,7 +27,7 @@ body{
 /* INICIO HEADER */
 header{
   width: 100%;
-  height: 600px;
+  height: 900px;
   background-image: url("../images/cover.jpg");
   background-size: cover;
   background-attachment: fixed;
@@ -54,12 +54,13 @@ nav > a:hover{
 
 .header-texts{
   display: flex;
-  height: 430px;
+  height: 100%;
   width: 100%;
   align-items: center;
   justify-items: center;
   flex-direction: column;
   text-align: center;
+  justify-content: center;
 }
 
 .header-texts h1{
